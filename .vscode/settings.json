@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\ADMIN\\Desktop\\Calculator_project\\my_django_project\\mysite\\venv\\Scripts",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true
+}
